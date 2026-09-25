@@ -122,9 +122,9 @@ Project Type
 
 Beginner Python Project
 
-Author
+# Author
 
-Ayush Singh
+Ayush Singh https://github.com/ayush893singh
 
 BCA Student | Python Programmer | Learning DSA
 
