@@ -1,10 +1,10 @@
-Invoice Generator
+# Invoice Generator
 
 Invoice Generator is a simple Python project that creates a basic invoice for customers.
 
 The program allows the user to enter multiple products, calculate item totals, and generate a final invoice with the total amount.
 
-Features
+# Features
 
 - Enter customer name
 - Add multiple products
@@ -16,7 +16,7 @@ Features
 - Simple command-line interface
 - No external libraries required
 
-Technologies Used
+# Technologies Used
 
 - Python 3
 - Lists
@@ -25,7 +25,7 @@ Technologies Used
 - User input
 - Formatted output
 
-Example
+# Example
 
 ========================================
            INVOICE GENERATOR
@@ -59,7 +59,7 @@ Grand Total:           ₹1600.00
           Thank You For Shopping!
 ========================================
 
-Project Structure
+# Project Structure
 
 invoice-generator/
 │
@@ -95,7 +95,7 @@ How It Works
 6. The program calculates the subtotal.
 7. A formatted invoice is displayed.
 
-Learning Outcomes
+# Learning Outcomes
 
 This project helps practice:
 
