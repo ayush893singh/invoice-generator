@@ -59,33 +59,7 @@ Grand Total:           ₹1600.00
           Thank You For Shopping!
 ========================================
 
-# Project Structure
-
-invoice-generator/
-│
-├── InvoiceGenerator.py
-└── README.md
-
-Requirements
-
-- Python 3.x
-- No external packages required
-
-How to Run
-
-Clone the repository:
-
-git clone YOUR_REPOSITORY_URL
-
-Open the project folder:
-
-cd invoice-generator
-
-Run the program:
-
-python InvoiceGenerator.py
-
-How It Works
+# How It Works
 
 1. Enter the customer's name.
 2. Enter the product name.
@@ -118,7 +92,7 @@ Future Improvements
 - Add customer contact details
 - Add a graphical user interface
 
-Project Type
+# Project Type
 
 Beginner Python Project
 
